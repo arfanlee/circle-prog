@@ -1,5 +1,5 @@
 # circle-prog
-A program that will calculate circumference, area and many more of a circle.
+A program that will calculate circumference, area, and many more of a circle.
 
 1. You have to choose whether you wanted to use radian or diameter to start calculating.
 2. The result will come out with the circumference, area of a circle.
