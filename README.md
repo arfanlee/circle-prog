@@ -8,6 +8,6 @@ A program that will calculate circumference, area and many more of a circle.
 4. Finally, after all calculation is done, it will start using turtle to start drawing a circle based on your radian/
    diameter.
 
-#note
+# note
 - still have to do an option whether the user wanted to use the program again or exit the program.
 - need to reuse the codes and making sure turtle won't cause trouble.
